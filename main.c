@@ -5,6 +5,6 @@ int odcitaj();
 
 int main(void)
 {
-     printf("Hello world");
+     printf("Hello world");asdjgohlkgadigh
 }     
 
