@@ -6,5 +6,6 @@ int odcitaj();
 int main(void)
 {
      printf("Hello world");
+cdghiooooerô
 }     
 
